@@ -1,0 +1,16 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsftp": "^2.1.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "soap": "^1.0.0"
+  }
+}
