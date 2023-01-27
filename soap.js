@@ -26,4 +26,3 @@ soap.createClient(url, function(err, client) {
     });
 });
 
-console.log("hi");
